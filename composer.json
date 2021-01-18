@@ -1,7 +1,7 @@
 {
-    "name": "pragmarx/tracker",
+    "name": "nguyenthanhlinhcoder/tracker",
 
-    "description": "A Laravel Visitor Tracker",
+    "description": "Custom package pragmarx/tracker A Laravel Visitor Tracker",
 
     "keywords": ["tracker", "tracking", "visitor", "logging", "user agent", "mobile detection", "laravel", "pragmarx"],
 
@@ -23,7 +23,7 @@
         "ramsey/uuid": "^3 || ^4",
         "jenssegers/agent": "~2.1",
         "ua-parser/uap-php" : "~3.4",
-        "pragmarx/datatables": "^1.4.12",
+        "nguyenthanhlinhcoder/datatables": "dev-master",
         "snowplow/referer-parser": "~0.1",
         "jaybizzle/crawler-detect": "~1.0",
         "psr/log": "~1.0"
